@@ -50,14 +50,16 @@
     <loc>https://demo.stack.jimmycai.com/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://demo.stack.jimmycai.com/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/categories/test/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/categories/example-category/</loc>
   </url><url>
     <loc>https://demo.stack.jimmycai.com/links/</loc>
   </url><url>
