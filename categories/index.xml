@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on My New Hugo Site</title>
-        <link>https://example.org/categories/</link>
-        <description>Recent content in Categories on My New Hugo Site</description>
+        <title>Categories on Susie Way</title>
+        <link>https://demo.stack.jimmycai.com/categories/</link>
+        <description>Recent content in Categories on Susie Way</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog</title>
-        <link>https://example.org/categories/blog/</link>
+        <link>https://demo.stack.jimmycai.com/categories/blog/</link>
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/categories/blog/</guid>
+        <guid>https://demo.stack.jimmycai.com/categories/blog/</guid>
         <description></description>
         </item>
         <item>
         <title>Publications</title>
-        <link>https://example.org/categories/publications/</link>
+        <link>https://demo.stack.jimmycai.com/categories/publications/</link>
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/categories/publications/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Example Category</title>
-        <link>https://example.org/categories/example-category/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.org/categories/example-category/</guid>
+        <guid>https://demo.stack.jimmycai.com/categories/publications/</guid>
         <description></description>
         </item>
         

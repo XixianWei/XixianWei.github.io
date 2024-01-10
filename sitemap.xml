@@ -2,46 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/p/my-new-book/</loc>
+    <loc>https://demo.stack.jimmycai.com/p/my-new-book/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://demo.stack.jimmycai.com/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/p/1st-blog/</loc>
+    <loc>https://demo.stack.jimmycai.com/p/1st-blog/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/blog/</loc>
+    <loc>https://demo.stack.jimmycai.com/tags/blog/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/blog/</loc>
+    <loc>https://demo.stack.jimmycai.com/categories/blog/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/books/</loc>
+    <loc>https://demo.stack.jimmycai.com/tags/books/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://demo.stack.jimmycai.com/categories/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://demo.stack.jimmycai.com/post/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/publications/</loc>
+    <loc>https://demo.stack.jimmycai.com/categories/publications/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://demo.stack.jimmycai.com/tags/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://demo.stack.jimmycai.com/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/page/</loc>
+    <loc>https://demo.stack.jimmycai.com/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/all-my-books/</loc>
+    <loc>https://demo.stack.jimmycai.com/all-my-books/</loc>
   </url><url>
-    <loc>https://example.org/categories/example-category/</loc>
-  </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>https://demo.stack.jimmycai.com/search/</loc>
   </url>
 </urlset>

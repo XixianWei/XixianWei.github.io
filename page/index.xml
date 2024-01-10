@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on My New Hugo Site</title>
-        <link>https://example.org/page/</link>
-        <description>Recent content in Pages on My New Hugo Site</description>
+        <title>Pages on Susie Way</title>
+        <link>https://demo.stack.jimmycai.com/page/</link>
+        <description>Recent content in Pages on Susie Way</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://example.org/archives/</link>
+        <link>https://demo.stack.jimmycai.com/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/archives/</guid>
+        <guid>https://demo.stack.jimmycai.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>All My Books</title>
-        <link>https://example.org/all-my-books/</link>
+        <link>https://demo.stack.jimmycai.com/all-my-books/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/all-my-books/</guid>
+        <guid>https://demo.stack.jimmycai.com/all-my-books/</guid>
         <description>&lt;p&gt;Here are all books that I&amp;rsquo;ve published.&lt;/p&gt;
 &lt;!-- 
 To use this feature, add `links` section to frontmatter.
@@ -41,10 +41,10 @@ links:
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.org/search/</link>
+        <link>https://demo.stack.jimmycai.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/search/</guid>
+        <guid>https://demo.stack.jimmycai.com/search/</guid>
         <description></description>
         </item>
         
