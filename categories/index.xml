@@ -7,20 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Blog</title>
-        <link>https://demo.stack.jimmycai.com/categories/blog/</link>
+        <title>Life as a Hooman</title>
+        <link>https://demo.stack.jimmycai.com/categories/life/</link>
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/categories/blog/</guid>
-        <description></description>
+        <guid>https://demo.stack.jimmycai.com/categories/life/</guid>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/categories/life/cover-life.jpg" alt="Featured image of post Life as a Hooman" /&gt;</description>
         </item>
         <item>
-        <title>Publications</title>
+        <title>My Publications</title>
         <link>https://demo.stack.jimmycai.com/categories/publications/</link>
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
         
         <guid>https://demo.stack.jimmycai.com/categories/publications/</guid>
-        <description></description>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/categories/publications/cover-book.jpg" alt="Featured image of post My Publications" /&gt;</description>
+        </item>
+        <item>
+        <title>Adulting in The UK</title>
+        <link>https://demo.stack.jimmycai.com/categories/adulting/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/categories/adulting/</guid>
+        <description>&lt;img src="https://demo.stack.jimmycai.com/categories/adulting/cover.jpg" alt="Featured image of post Adulting in The UK" /&gt;</description>
         </item>
         
     </channel>
